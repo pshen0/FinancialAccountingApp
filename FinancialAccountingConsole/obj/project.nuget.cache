@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PI+lQMOLLbI=",
+  "success": true,
+  "projectFilePath": "/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingConsole/FinancialAccountingConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya_psheno/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/anya_psheno/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

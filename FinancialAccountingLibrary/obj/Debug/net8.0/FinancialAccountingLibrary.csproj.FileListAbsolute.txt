@@ -1,0 +1,13 @@
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/bin/Debug/net8.0/FinancialAccountingLibrary.deps.json
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/bin/Debug/net8.0/FinancialAccountingLibrary.dll
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/bin/Debug/net8.0/FinancialAccountingLibrary.pdb
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.AssemblyInfoInputs.cache
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.AssemblyInfo.cs
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.csproj.CoreCompileInputs.cache
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.sourcelink.json
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.dll
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/refint/FinancialAccountingLibrary.dll
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.pdb
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/ref/FinancialAccountingLibrary.dll
+/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/obj/Debug/net8.0/FinancialAccountingLibrary.csproj.AssemblyReference.cache

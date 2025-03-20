@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AiGLhNVyzHk=",
+  "success": true,
+  "projectFilePath": "/Users/anya_psheno/hse/FinancialAccountingApp/FinancialAccountingLibrary/FinancialAccountingLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya_psheno/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

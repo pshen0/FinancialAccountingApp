@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialAccountingLibrary", "FinancialAccountingLibrary\FinancialAccountingLibrary.csproj", "{5F902866-84A3-4B73-8877-D752B294EC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialAccountingConsole", "FinancialAccountingConsole\FinancialAccountingConsole.csproj", "{A8AFA14F-454C-473B-BA6D-E148ED691D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F902866-84A3-4B73-8877-D752B294EC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F902866-84A3-4B73-8877-D752B294EC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F902866-84A3-4B73-8877-D752B294EC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F902866-84A3-4B73-8877-D752B294EC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AFA14F-454C-473B-BA6D-E148ED691D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AFA14F-454C-473B-BA6D-E148ED691D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AFA14F-454C-473B-BA6D-E148ED691D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AFA14F-454C-473B-BA6D-E148ED691D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
